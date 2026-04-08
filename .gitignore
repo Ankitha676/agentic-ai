@@ -1,0 +1,9 @@
+.env
+*.env
+.venv/
+__pycache__/
+*.pyc
+.idea/
+qdrant_db/
+*.pkl
+*.sqlite
