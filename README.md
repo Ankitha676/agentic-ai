@@ -115,7 +115,10 @@ This will:
 
 python main.py
 
-Example Queries
+
+---
+
+##  Example Queries
 
 Try asking:
 
