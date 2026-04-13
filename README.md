@@ -115,8 +115,7 @@ This will:
 
 python main.py
 
-
----
+  ---
 
 ##  Example Queries
 
@@ -175,4 +174,5 @@ The documents reveal a clear compliance breach: candidates are being cleared to 
 ---
 
 **Bottom line:** The approvals and candidate packs lack the mandatory documentation required by UK law and company policy. The emails effectively bypass the standard clearance process, creating a compliance risk that could lead to fines, legal action, or reputational damage. All missing evidence must be obtained and documented before any candidate can be legally onboarded.
+
 
