@@ -1,13 +1,10 @@
-# agentic-ai
+# AgenticInsightEngine
 
-#  ComplianceIQ  
 ### Agentic AI System for Multi-Source Enterprise Analysis
-
-
 
 ##  Overview
 
-**ComplianceIQ** is an AI-powered agent designed to analyze and answer questions across **multi-format enterprise datasets** including PDFs, Word documents, and tabular data (CSV/Excel).
+**AgenticInsightEngine** is an AI-powered agent designed to analyze and answer questions across **multi-format enterprise datasets** including PDFs, Word documents, and tabular data (CSV/Excel).
 
 The system simulates real-world enterprise scenarios where information is scattered across different sources and requires **cross-document reasoning** to identify compliance issues, violations, and missing information.
 
@@ -117,7 +114,7 @@ python main.py
 
   ---
 
-##  Example Queries
+**##  Example Queries**
 
 Try asking:
 
